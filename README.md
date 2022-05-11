@@ -18,8 +18,8 @@
 - 📫 How to reach me **estaarjohn@gmail.com**
 
 ### Blogs posts
-<!--START_SECTION:feed-->
-<!--END_SECTION:feed-->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
