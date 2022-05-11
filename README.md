@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Esther</h1>
-<h3 align="center">A Data Scientist and Software Developer with Python and its packages specifically Django, Wagtail, Pandas and PyTorch</h3>
+<h3 align="center">A Data Scientist and Software Developer using Python and its packages specifically Django, Wagtail, Pandas and PyTorch</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=estaar&label=Profile%20views&color=0e75b6&style=flat" alt="estaar" /> </p>
 
