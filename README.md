@@ -19,6 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with API&#39;s and FAST API](http://blog.geocreatives/blogs/getting-started-with-apis-and-fast-api/)
+- [Introduction to Cloud Computing with Google Cloud Platform](http://blog.geocreatives/blogs/introduction-to-cloud-computing-with-google-cloud-platform/)
+- [Install GDAL in Windows 10 Python 3.x Pipenv Virtual Environment](http://blog.geocreatives/blogs/install-gdal-in-windows-10-python-3x-pipenv-virtual-environment/)
+- [How to Extract CHIRPS Time Series Data for an Area](http://blog.geocreatives/blogs/how-to-extract-chirps-time-series-data-for-an-area/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
