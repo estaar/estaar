@@ -17,7 +17,8 @@
 
 - 📫 How to reach me **estaarjohn@gmail.com**
 
-### Blogs posts
+## Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
