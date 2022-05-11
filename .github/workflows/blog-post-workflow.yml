@@ -1,14 +1,16 @@
-name: Latest blog post workflow
-on: 
-    schedule:
-        - cron: '0 * * * *'
-jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
-        runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "4"
-                feed_list: "https://www.geocreatives.com/rss/"
+name: Update readme with blog posts
+on:
+  schedule:
+    # Runs at 00:00 UTC every day.
+    - cron: "0 * * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://www.geocreatives.com/atom/
+          readme-section: feed
+          max: 4
+          template: "* [{{ title }}]({{ link }})"
