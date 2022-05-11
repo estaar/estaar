@@ -17,12 +17,17 @@
 
 - 📫 How to reach me **estaarjohn@gmail.com**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/johnestaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="johnestaar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/john-esther" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john-esther" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/geo-creatives by john esther" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="geo-creatives by john esther" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/estaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="estaar" height="30" width="40" /></a>
+<a href="/https://www.geocreatives.com/rss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.geocreatives.com/rss/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
