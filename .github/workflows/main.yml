@@ -1,8 +1,11 @@
 name: Update readme with blog posts
 on:
-  schedule:
-    # Runs at 00:00 UTC every day.
-    - cron: "5 * * * *"
+  push:
+      branches:
+       - main
+#   schedule:
+#     # Runs at 00:00 UTC every day.
+#     - cron: "5 * * * *"
 
 jobs:
   update:
