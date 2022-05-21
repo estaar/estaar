@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Vue**
 
-- 👨‍💻 All of my projects are available at [https://www.geocreatives.com](www.geocreatives.com)
+- 👨‍💻 All of my projects are available at [https://www.geocreatives.com/](https://www.geocreatives.com/)
 
 - 📝 I regularly write articles on [https://www.geocreatives.com/blogs/](https://www.geocreatives.com/blogs/)
 
