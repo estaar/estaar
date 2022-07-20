@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Esther</h1>
-<h3 align="center">A Data Scientist and Software Developer using Python and its packages specifically Django, Wagtail, Pandas, Streamlit and PyTorch</h3>
+<h3 align="center">A Data Scientist, Software Developer and a Certified Google Cloud Engineer using Python and its packages like Django, Wagtail, Pandas, Streamlit & Pytorch</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=estaar&label=Profile%20views&color=0e75b6&style=flat" alt="estaar" /> </p>
 
@@ -13,9 +13,13 @@
 
 - 📝 I regularly write articles on [https://www.geocreatives.com/blogs/](https://www.geocreatives.com/blogs/)
 
+- 📫 My public Google Developer Profile is at [John Esther](https://partner.cloudskillsboost.google/public_profiles/9d2088d3-f9ab-48b4-8b9e-0f6e78f158d8)
+
 - 💬 Ask me about **python, django, pandas, data science and gis**
 
 - 📫 How to reach me **estaarjohn@gmail.com**
+
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
