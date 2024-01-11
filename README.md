@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Esther</h1>
-<h3 align="center">A Data Scientist, Software Developer and a Certified Google Cloud Engineer using Python and its packages like Django, Wagtail, Pandas, Streamlit & Pytorch</h3>
-<h4 align="center">In __Artificial Intelligence__ space I specialize in **Generative AI** utilizing various tools like **LangChain, Llama Index** and **LLMS** to create autonomous agents</h4>
+<h2 align="center">A Data Scientist, Software Developer and a Certified Google Cloud Engineer using Python and its packages like Django, Wagtail, Pandas, Streamlit & Pytorch</h2>
+<h3 align="center">In **Artificial Intelligence** space I specialize in **Generative AI** utilizing various tools like **LangChain, Llama Index** and **LLMS** to create autonomous agents</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=estaar&label=Profile%20views&color=0e75b6&style=flat" alt="estaar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estaar" alt="estaar" /></a> </p>
